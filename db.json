@@ -27,7 +27,7 @@
     {
       "id": 5,
       "name": "Rex",
-      "image": "https://static.wikia.nocookie.net/disney/images/5/56/Profile_-_Rex.jpeg/revision/latest?cb=20190313050619",
+      "image": "https://disneytoystorymovie.files.wordpress.com/2014/09/rex1.jpg",
       "likes": 1
     },
     {
@@ -46,7 +46,13 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": 1
+      "likes": 4
+    },
+    {
+      "name": "Mrs. Potato Head",
+      "image": "https://i.pinimg.com/originals/64/87/6e/64876e911fccd6bb08f651763cf28dd1.jpg",
+      "likes": 5,
+      "id": 9
     }
   ]
 }
